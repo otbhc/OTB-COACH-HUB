@@ -1,0 +1,8 @@
+{
+  "name": "OTB COACH APP",
+  "description": "A high-performance workout management system for OTB Health Club coaches to build, schedule, and share daily WODs with video demonstrations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
